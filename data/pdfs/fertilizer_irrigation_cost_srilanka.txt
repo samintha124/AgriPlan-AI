@@ -1,0 +1,17 @@
+# Agricultural Cost Estimation & Government Subsidies in Sri Lanka
+
+## 1. Government Subsidy Programs (Department of Agriculture)
+- **Paddy Fertilizer Subsidy**: Financial cash grant of LKR 15,000 to LKR 25,000 per hectare per season directly transferred to farmers' bank accounts.
+- **Micro-Irrigation Subsidy**: 50% to 75% subsidy provided for drip irrigation systems and solar water pumping systems under the Agri-Entrepreneurship Development Scheme.
+
+## 2. Average Input Costs (2025/2026 Reference Data)
+- **Commercial Organic Compost**: LKR 35 - 50 per kg.
+- **Urea (46% N)**: LKR 9,000 - 11,000 per 50kg bag.
+- **Muriate of Potash (MOP)**: LKR 14,000 - 16,000 per 50kg bag.
+- **Triple Super Phosphate (TSP)**: LKR 12,000 - 15,000 per 50kg bag.
+- **Agricultural Labor Rate**: LKR 2,500 - 3,500 per man-day depending on district and task (land prep, harvesting, spraying).
+- **Tractor Machinery Hire**: LKR 8,000 - 12,000 per acre for primary land preparation (4-wheel 2-tine / disk plow).
+
+## 3. Water Management Guidelines
+- Drip Irrigation: Saves 40-60% water compared to flood irrigation. Recommended for high-value cash crops (Chilli, Tomato, Melon, Papaya).
+- Sprinkler Irrigation: Ideal for leafy vegetables, onion, and potato fields in Upcountry (Nuwara Eliya, Badulla).

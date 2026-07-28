@@ -1,0 +1,31 @@
+# Sri Lankan Rice (Paddy) Cultivation Guide - Department of Agriculture
+
+## 1. Agro-Ecological Zones & Seasons
+In Sri Lanka, paddy cultivation mainly occurs during two major monsoon seasons:
+- **Maha Season**: Starts with the North-East monsoon from September/October to March.
+- **Yala Season**: Starts with the South-West monsoon from April to August/September.
+
+Major paddy growing regions include Polonnaruwa, Anuradhapura, Ampara, Kurunegala, and Hambantota.
+
+## 2. Seed Selection & Varieties
+- **Bg 352 & Bg 358**: 3.5-month varieties recommended for dry and intermediate zones. High yield potential.
+- **Bg 300 & Bg 305**: 3-month short-duration varieties suitable for water-deficit areas.
+- **At 362**: Red pericarp variety resistant to bacterial leaf blight, popular in Southern Sri Lanka.
+- **Traditional Varieties**: Suwandel, Kalu Heenati, and Pachchaperumal - cultivated organically with high market value.
+
+## 3. Land Preparation & Seed Rate
+- Initial plowing (primary tillage) followed by 7-10 days of flooding to break down organic weed mass.
+- Secondary plowing and leveling for uniform water distribution.
+- Recommended seeding rate for direct seeding: 100-125 kg per hectare (40-50 kg per acre).
+
+## 4. Fertilizer Management (DOA Recommendations)
+- **Basal Fertilizer**: Apply Muriate of Potash (MOP) and Triple Super Phosphate (TSP) or Rock Phosphate before final leveling.
+- **Top Dressing Urea**:
+  - 1st Top Dressing: 2 weeks after broadcasting (Tiller initiation stage).
+  - 2nd Top Dressing: 4-5 weeks after broadcasting (Panicle initiation stage).
+  - 3rd Top Dressing: 7 weeks after broadcasting (Heading stage).
+- Recommended dosage per acre: Urea 65-80 kg, TSP 25 kg, MOP 30 kg depending on soil test results.
+
+## 5. Water & Weed Control
+- Maintain 2-5 cm water layer after crop establishment until 2 weeks before harvest.
+- Weed management: Apply pre-emergence herbicide (Pyrazosulfuron-ethyl) within 3-5 days after broadcasting.

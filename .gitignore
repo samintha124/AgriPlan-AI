@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables & Secrets
+.env
+.streamlit/secrets.toml
+
+# Vector Store Persistence (large generated binaries)
+data/vectorstore/
+
+# IDE / OS files
+.DS_Store
+.vscode/
+.idea/

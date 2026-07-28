@@ -1,0 +1,24 @@
+# Maize (Corn) Cultivation Guide for Sri Lanka
+
+## 1. Overview & Economic Importance
+Maize (Zea mays) is the second most important cereal crop in Sri Lanka, primarily used for animal feed (poultry industry) and human consumption. Major growing districts: Anuradhapura, Moneragala, Badulla, Ampara, and Vavuniya.
+
+## 2. Soil & Climate Requirements
+- Prefers well-drained fertile loamy soils with pH between 5.5 and 7.5.
+- Sensitive to waterlogging; proper surface drainage is mandatory.
+- Optimal temperature: 24°C to 30°C.
+
+## 3. Recommended Hybrids & Planting
+- **Pacific 999**, **BH 668**, and local hybrid **MI Maize 01**.
+- Seed requirement: 8-10 kg per acre (20 kg per hectare).
+- Spacing: 60 cm between rows and 20 cm between plants. Plant 1 seed per hill at 3-5 cm depth.
+
+## 4. Fertilizer Schedule per Acre
+- **Basal**: Urea 25 kg, TSP 35 kg, MOP 20 kg at land preparation.
+- **Top Dressing 1**: Urea 35 kg at 3 weeks after germination (knee-high stage).
+- **Top Dressing 2**: Urea 25 kg at tasseling/silking stage (approx. 6-7 weeks).
+
+## 5. Fall Armyworm (Spodoptera frugiperda) Management
+- Monitor fields weekly for leaf whorl damage (pinholes, windowing).
+- Biological control: Apply neem oil extract or Bacillus thuringiensis (Bt).
+- Chemical control: Emamectin benzoate 5% SG (4g per 10L water) or Spinetoram applied directly into leaf whorls.
