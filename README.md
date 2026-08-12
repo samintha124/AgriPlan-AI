@@ -9,7 +9,8 @@
 ---
 
 ## 📌 Live Demo & Deployment
-- **Streamlit Community Cloud Link**: `https://agriplan-ai.streamlit.app` *(Replace with deployed URL)*
+- **Streamlit Community Cloud Link**:https://sri-lankan-agriculter-rx2ttnxmmtgmcdjfpdrhdz.streamlit.app/
+
 - **GitHub Repository**: `https://github.com/your-username/AgriPlan-AI`
 
 ---
