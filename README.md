@@ -11,7 +11,7 @@
 ## 📌 Live Demo & Deployment
 - **Streamlit Community Cloud Link**:https://sri-lankan-agriculter-rx2ttnxmmtgmcdjfpdrhdz.streamlit.app/
 
-- **GitHub Repository**: `https://github.com/your-username/AgriPlan-AI`
+- **GitHub Repository**: https://github.com/samintha124/Sri-Lankan-Agriculter
 
 ---
 
